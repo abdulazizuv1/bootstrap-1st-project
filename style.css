@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://assets.kpmg.com/is/image/kpmg/bg-kpmg-business-seminar-2022-1:cq5dam.web.440.280");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    margin: 130px 0px;
+}
